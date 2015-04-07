@@ -9,9 +9,6 @@
 	<dt>Created:</dt>
 	<dd><?php echo $transaction['Transaction']['created']; ?></dd>
 
-	<dt>Category:</dt>
-	<dd><?php echo $transaction['Transaction']['category']; ?></dd>
-
 	<dt>Payment type:</dt>
 	<dd><?php echo $transaction['Transaction']['payment_type']; ?></dd>
 
