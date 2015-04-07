@@ -1,0 +1,28 @@
+body {
+	background-image: url('../img/spider.png');
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: right bottom;
+	background-color: #fff;
+   }
+
+.well{
+	 background-color: rgba(255, 255, 255, 0.7); 
+
+}
+
+h1{
+	color: #fbb452;
+}
+
+a{
+	color: #fbb452;
+	text-decoration: underline;
+	margin: 0px 10px;
+}
+
+a:hover{
+	color:#000;	
+	text-decoration: none;
+}
+	
